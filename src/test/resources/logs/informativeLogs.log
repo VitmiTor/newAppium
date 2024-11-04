@@ -1,0 +1,6 @@
+16:04:59.348 INFO  AUTOMATION - Suite iniciada: Default Suite
+16:05:02.829 INFO  AUTOMATION - Navengando al web
+16:05:04.428 INFO  AUTOMATION - Comenzamos el Test: dibujoBackSlash
+16:05:04.461 INFO  AUTOMATION - dibujando simbolo slash
+16:05:10.618 INFO  AUTOMATION - Test exitoso: dibujoBackSlash
+16:05:10.818 INFO  AUTOMATION - Suite finalizada: Default Suite
