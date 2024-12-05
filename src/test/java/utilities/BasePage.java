@@ -15,7 +15,7 @@ import java.util.List;
 public abstract class BasePage {
     private final static int defaultTimeout = 5;
     protected final SoftAssert softAssert;
-    private int timeout;
+    private final int timeout;
 
     public BasePage(int timeout) {
         softAssert = new SoftAssert();

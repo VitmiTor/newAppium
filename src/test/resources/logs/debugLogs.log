@@ -1,17 +1,11 @@
-16:04:59.348 INFO  AUTOMATION - Suite iniciada: Default Suite
-16:04:59.376 DEBUG AUTOMATION - inicializando el driver
-16:04:59.379 DEBUG AUTOMATION - Inicializando el driver
-16:05:02.785 DEBUG AUTOMATION - Asignando implicit wait
-16:05:02.790 DEBUG AUTOMATION - Asignando el driver Provider
-16:05:02.829 INFO  AUTOMATION - Navengando al web
-16:05:04.428 INFO  AUTOMATION - Comenzamos el Test: dibujoBackSlash
-16:05:04.461 INFO  AUTOMATION - dibujando simbolo slash
-16:05:04.544 DEBUG AUTOMATION - Haciendo swipe desde el (334, 1081) hasta (1107, 2345)
-16:05:04.545 DEBUG AUTOMATION - Movemos el dedo hacia la posición inicial
-16:05:04.545 DEBUG AUTOMATION - Tocamos la pantalla
-16:05:04.546 DEBUG AUTOMATION - Movemos el dedo hacia la posición final 
-16:05:04.546 DEBUG AUTOMATION - Liberamos la pantalla
-16:05:04.546 DEBUG AUTOMATION - Ejecutamos las acciones
-16:05:10.601 DEBUG AUTOMATION - Tomando ScreenshotAllure
-16:05:10.618 INFO  AUTOMATION - Test exitoso: dibujoBackSlash
-16:05:10.818 INFO  AUTOMATION - Suite finalizada: Default Suite
+11:20:22.777 INFO  AUTOMATION - Suite iniciada: Default Suite
+11:20:22.808 DEBUG AUTOMATION - Inicializando el driver
+11:20:30.213 DEBUG AUTOMATION - Asignando el driver Provider
+11:20:30.259 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+11:20:31.269 INFO  AUTOMATION - %s cargo todo ok
+11:20:31.281 INFO  AUTOMATION - Comenzamos el Test: loginVerify
+11:20:31.306 INFO  AUTOMATION - verifying page
+11:20:31.356 DEBUG AUTOMATION - Tomando ScreenshotAllure
+11:20:31.360 INFO  AUTOMATION - Test exitoso: loginVerify
+11:20:31.361 INFO  AUTOMATION - Killing the driver
+11:20:31.477 INFO  AUTOMATION - Suite finalizada: Default Suite
